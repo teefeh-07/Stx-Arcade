@@ -11,3 +11,4 @@ export const userSession = new UserSession({ appConfig });
 // Authentication Function
 export function authenticate() {
   showConnect({
+    appDetails: {
