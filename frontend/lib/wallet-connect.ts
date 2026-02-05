@@ -15,3 +15,4 @@ export async function createWalletConnectClient() {
       url: 'https://stx-arcade.com',
       icons: ['https://stx-arcade.com/icon.png']
     }
+  });
