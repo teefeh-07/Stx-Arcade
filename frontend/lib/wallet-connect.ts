@@ -10,3 +10,4 @@ export async function createWalletConnectClient() {
   const web3wallet = await Web3Wallet.init({
     core,
     metadata: {
+      name: 'Stx Arcade',
