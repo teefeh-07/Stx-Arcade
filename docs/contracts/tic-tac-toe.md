@@ -9,3 +9,7 @@ This smart contract implements tic-tac-toe logic on Stacks.
 
 ## Public Functions
 This contract exposes standard gaming functions.
+
+## Security
+- Traits: SIP-010
+- Permissions: Owner only
