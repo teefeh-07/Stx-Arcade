@@ -17,3 +17,4 @@ export async function createWalletConnectClient() {
     }
   });
   return web3wallet;
+}
