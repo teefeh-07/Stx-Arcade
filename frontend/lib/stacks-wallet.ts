@@ -20,3 +20,4 @@ export function authenticate() {
       window.location.reload();
     },
     userSession,
+  });
