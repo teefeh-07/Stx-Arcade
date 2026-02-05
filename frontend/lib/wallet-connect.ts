@@ -16,3 +16,4 @@ export async function createWalletConnectClient() {
       icons: ['https://stx-arcade.com/icon.png']
     }
   });
+  return web3wallet;
