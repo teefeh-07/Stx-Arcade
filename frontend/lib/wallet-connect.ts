@@ -12,3 +12,4 @@ export async function createWalletConnectClient() {
     metadata: {
       name: 'Stx Arcade',
       description: 'Stacks Arcade Games',
+      url: 'https://stx-arcade.com',
