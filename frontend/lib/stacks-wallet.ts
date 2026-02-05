@@ -14,3 +14,4 @@ export function authenticate() {
     appDetails: {
       name: 'Stx Arcade',
       icon: window.location.origin + '/favicon.ico',
+    },
