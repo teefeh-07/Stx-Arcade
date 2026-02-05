@@ -13,3 +13,4 @@ export function authenticate() {
   showConnect({
     appDetails: {
       name: 'Stx Arcade',
+      icon: window.location.origin + '/favicon.ico',
