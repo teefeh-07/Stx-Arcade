@@ -14,3 +14,4 @@ export async function createWalletConnectClient() {
       description: 'Stacks Arcade Games',
       url: 'https://stx-arcade.com',
       icons: ['https://stx-arcade.com/icon.png']
+    }
