@@ -4,3 +4,5 @@ import { Person } from '@stacks/profile';
 
 // Define App Config
 const appConfig = new AppConfig(['store_write', 'publish_data']);
+
+// Initialize User Session
