@@ -21,3 +21,12 @@ Playground of Stacks smart-contract mini-games with a matching Next.js frontend 
 ## Notes
 - Node.js 18+ is recommended for both workspaces.
 - Clarinet CLI is optional for extra contract inspection; core tests run via `vitest` with the Clarinet SDK environment.
+
+## New Features
+- **Wallet Connect Integration**: Implemented in `frontend/lib/wallet-connect.ts`.
+- **Transaction Handling**: Enhanced utils in `frontend/lib/transactions.ts` using `@stacks/transactions`.
+- **Chainhooks Client**: Integrated via `@hirosystems/chainhooks-client`.
+- **Micro-Commit Strategy**: The project follows a strict granular commit history for professional tracking.
+
+## Automation
+See `docs/AUTOMATION.md` for details on the branching and commit strategy.
