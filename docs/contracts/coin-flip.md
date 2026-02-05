@@ -9,3 +9,7 @@ This smart contract implements coin-flip logic on Stacks.
 
 ## Public Functions
 This contract exposes standard gaming functions.
+
+## Security
+- Traits: SIP-010
+- Permissions: Owner only
