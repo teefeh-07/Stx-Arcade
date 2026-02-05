@@ -12,3 +12,4 @@ export const userSession = new UserSession({ appConfig });
 export function authenticate() {
   showConnect({
     appDetails: {
+      name: 'Stx Arcade',
