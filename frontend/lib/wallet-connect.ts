@@ -7,3 +7,4 @@ export async function createWalletConnectClient() {
   const core = new Core({
     projectId: process.env.NEXT_PUBLIC_WC_PROJECT_ID,
   });
+  const web3wallet = await Web3Wallet.init({
