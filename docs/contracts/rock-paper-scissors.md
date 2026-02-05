@@ -2,3 +2,7 @@
 
 ## Overview
 This smart contract implements rock-paper-scissors logic on Stacks.
+
+## Data Vars
+- game-state
+- players
