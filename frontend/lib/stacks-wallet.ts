@@ -16,3 +16,4 @@ export function authenticate() {
       icon: window.location.origin + '/favicon.ico',
     },
     redirectTo: '/',
+    onFinish: () => {
