@@ -6,3 +6,4 @@ import { Person } from '@stacks/profile';
 const appConfig = new AppConfig(['store_write', 'publish_data']);
 
 // Initialize User Session
+export const userSession = new UserSession({ appConfig });
