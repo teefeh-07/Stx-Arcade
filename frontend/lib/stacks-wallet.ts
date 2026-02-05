@@ -15,3 +15,4 @@ export function authenticate() {
       name: 'Stx Arcade',
       icon: window.location.origin + '/favicon.ico',
     },
+    redirectTo: '/',
