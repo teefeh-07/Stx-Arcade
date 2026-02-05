@@ -8,3 +8,4 @@ export async function createWalletConnectClient() {
     projectId: process.env.NEXT_PUBLIC_WC_PROJECT_ID,
   });
   const web3wallet = await Web3Wallet.init({
+    core,
