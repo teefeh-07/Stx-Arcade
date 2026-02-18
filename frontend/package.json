@@ -9,6 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@hirosystems/chainhooks-client": "^1.0.0",
+    "@stacks/connect": "^8.2.4",
+    "@stacks/network": "^7.3.1",
+    "@stacks/profile": "^7.3.1",
+    "@stacks/transactions": "^7.3.1",
+    "@walletconnect/core": "^2.23.4",
+    "@walletconnect/web3wallet": "^1.16.1",
     "next": "16.0.7",
     "react": "19.2.0",
     "react-dom": "19.2.0"
